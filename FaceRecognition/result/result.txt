@@ -1,4 +1,0 @@
-01.jpg;NULL
-02.jpg;36.jpg
-...
-10.jpg;16.jpg
