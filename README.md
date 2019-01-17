@@ -1,4 +1,4 @@
-## //***********第五届全国高校物联网应用创新大赛（命题赛）人脸识别demo***********//
+## 第五届全国高校物联网应用创新大赛（命题赛）人脸识别demo
 
 
 ### Recent Update
@@ -12,12 +12,21 @@
 ```image
 	FaceMatching/
 		train
-	    test
+	    	test
 	FaceIdentification/
 		train
 		test
 ```
-
+```Shell
+    faces_ms1m_112x112/
+       train.idx
+       train.rec
+       property
+       lfw.bin
+       cfp_ff.bin
+       cfp_fp.bin
+       agedb_30.bin
+```
 ### 算法实现
 
 [算法实现流程：人脸检测+特征提取+相似度计算]
