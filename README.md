@@ -8,17 +8,7 @@
 **`2018.02.13`**: 初始演示版本，仅供大赛参考
 
 ### 人脸识别数据集组成
-
-```image
-	FaceMatching/
-		train
-	    	test
-	FaceIdentification/
-		train
-		test
-```
-
-  .
+    .
     ├── image
     |   └── FaceMatching
     │       ├── train
@@ -29,9 +19,8 @@
     │       ├── train
     |       |   └── ... 
     │       ├── test
-    |           └── ... 
-    
-    
+    |           └── ...       
+    └── ...
 ### 算法实现
 
 [算法实现流程：人脸检测+特征提取+相似度计算]
